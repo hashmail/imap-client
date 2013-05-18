@@ -14,7 +14,8 @@
     "dependencies": {
         "mimelib": "*",
         "iconv": "*",
-        "xoauth2": "*"
+        "xoauth2": "*",
+        "imap-parser": "0.0.0"
     },
 
     "devDependencies": {
